@@ -15,16 +15,22 @@ body {
   padding: 0px;
 }
 
-form {
-  color: black;
+.card-text {
+  word-wrap: break-word !important;
 }
 
-.card-body {
+.card-img {
+  padding: 20px;
+}
+
+.card {
+  margin-top: 40px;
+  margin-left: 50px;
+}
+
+.card-body,
+.card {
   background-color: #f5f6fa;
-}
-
-button {
-  border-color: none;
 }
 
 button:hover {
@@ -35,5 +41,3 @@ button:hover {
   background-color: #f1c40f !important;
   border-color: white;
 }
-
-@media screen and ();
