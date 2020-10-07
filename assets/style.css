@@ -15,10 +15,6 @@ body {
   padding: 0px;
 }
 
-.card-text {
-  word-wrap: break-word !important;
-}
-
 .card-img {
   padding: 20px;
 }
@@ -39,6 +35,6 @@ button:hover {
 }
 
 .btn:hover {
-  background-color: #f1c40f !important;
+  background-color: #f1c40f;
   border-color: white;
 }
