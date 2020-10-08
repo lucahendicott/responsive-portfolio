@@ -6,12 +6,16 @@ I learned how to link all of my HTML pages in the nav-link classes, so that all 
 
 You'll find some photos on the portfolio page. I learned how to use a "portfolio" class to get a nice layout of the photos. I also learned how to properly link an img in my HTMl by saving it in my assets folder and sourcing it through its relative path.
 
+## Getting Started
+
+Website runs as is in browser. You don't gotta worry about any downloads or installs!
+
 ## Credits
 
 I was able to use the Bootstrap website for a lot of helpful code to get started.
-[Bootstrap Cards]https://getbootstrap.com/docs/4.0/components/card/
-[Bootstrap Navs]https://getbootstrap.com/docs/4.0/components/navs/
+Bootstrap Cards: https://getbootstrap.com/docs/4.0/components/card/
+Bootstrap Navs: https://getbootstrap.com/docs/4.0/components/navs/
 
 ## Deployed Project Website
 
-[Check it out!]https://lucahendicott.github.io/responsive-portfolio/
+[Check it out!](https://lucahendicott.github.io/responsive-portfolio/)
