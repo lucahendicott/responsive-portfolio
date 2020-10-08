@@ -15,9 +15,9 @@ Website runs as is in browser. You don't gotta worry about any downloads or inst
 
 ## Credits
 
-I was able to use the Bootstrap website for a lot of helpful code to get started.
-[Bootstrap Cards](https://getbootstrap.com/docs/4.0/components/card/)
-[Bootstrap Navs](https://getbootstrap.com/docs/4.0/components/navs/)
+I was able to use the Bootstrap website for a lot of helpful code to get started.<br>
+[Bootstrap Cards](https://getbootstrap.com/docs/4.0/components/card/)<br>
+[Bootstrap Navs](https://getbootstrap.com/docs/4.0/components/navs/)<br>
 
 ## Deployed Project Website
 
