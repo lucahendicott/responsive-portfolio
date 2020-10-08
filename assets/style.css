@@ -3,7 +3,6 @@
 }
 
 h1 {
-  margin-top: 15px;
   margin-bottom: 20px;
 }
 
@@ -13,9 +12,17 @@ body {
 
 .img-thumbnail {
   padding: 0px;
+  margin-right: 20px;
+  width: 50%;
+  height: 50%;
 }
 
-.card-img {
+.portfolio {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.portfolio-img {
   padding: 20px;
 }
 
