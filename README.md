@@ -13,7 +13,7 @@ You'll find some photos on the portfolio page. I was able to utilize bootstraps 
 Here are some screenshots of what the responsive portfolio looks like when deployed on a browser
 ![About me screenshot](https://user-images.githubusercontent.com/70814349/95630828-6346de80-0a37-11eb-9599-4c81fc5cabca.png)
 ![Contact screenshot](https://user-images.githubusercontent.com/70814349/95630829-63df7500-0a37-11eb-97c6-cb1df894bafd.png)
-![portfolio screenshot](https://user-images.githubusercontent.com/70814349/95630830-64780b80-0a37-11eb-928e-1ff8e24ed6e7.png)
+![Portfolio screenshot](https://user-images.githubusercontent.com/70814349/95639545-b4fa6380-0a4d-11eb-93b1-a1f48aa4052b.png)
 
 ## Getting Started
 
