@@ -10,6 +10,11 @@ I learned how to link all of my HTML pages in the nav-link classes, so that all 
 
 You'll find some photos on the portfolio page. I learned how to use a "portfolio" class to get a nice layout of the photos. I also learned how to properly link an img in my HTMl by saving it in my assets folder and sourcing it through its relative path.
 
+Here are some screenshots of what the responsive portfolio looks like when deployed on a browser
+![About me screenshot](https://user-images.githubusercontent.com/70814349/95530438-b9157b00-0992-11eb-9f10-5605dd5921f6.png)
+![Contact screenshot](https://user-images.githubusercontent.com/70814349/95530443-bb77d500-0992-11eb-9a22-c87808358ba2.png)
+![portfolio screenshot](https://user-images.githubusercontent.com/70814349/95530444-bc106b80-0992-11eb-83bb-0cd54736e9b1.png)
+
 ## Getting Started
 
 Website runs as is in browser. You don't gotta worry about any downloads or installs!
