@@ -1,5 +1,7 @@
 # Responsive Portfolio
 
+<img src="https://img.shields.io/badge/LICENSE-mit-green"/>
+
 ## Project Description
 
 This Project is my responsive portfolio, utilizing Bootstrap along with some custom CSS for styling. There are 3 different pages you can navigate to using the nav bar. The pages include an about me, a portflio page and a contact page.
