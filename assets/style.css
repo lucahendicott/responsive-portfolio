@@ -18,7 +18,7 @@ body {
 }
 
 .portfolio-card {
-  margin: 20px;
+  margin: 30px;
   float: left;
 }
 
@@ -63,11 +63,12 @@ button:hover {
   text-indent: 40px;
 }
 
-footer {
+/* footer {
+  position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
-}
+} */
 
 .btn{
   margin: 3px;
