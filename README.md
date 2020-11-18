@@ -1,4 +1,6 @@
-# Responsive Portfolio
+<img src="https://img.shields.io/badge/LICENSE-mit-green"/>
+
+# Responsive Portfolio 
 
 ## Project Description
 
