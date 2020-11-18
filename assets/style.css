@@ -10,26 +10,23 @@ body {
   background-color: lavender;
 }
 
-.img-thumbnail {
-  padding: 0px;
-  margin-right: 20px;
-  width: 50%;
-  height: 50%;
-}
-
-.portfolio {
+.portfolio-card {
   margin-top: 20px;
   margin-left: 20px;
+  float: left;
 }
 
-.portfolio-img {
-  padding: 20px;
+.card-img-top {
+  width: 400px;
+  height: 350px;
+  padding: 5px;
 }
 
-.card {
+.about-me {
   margin-top: 40px;
   margin-left: 30px;
   margin-right: 30px;
+  margin-bottom: 40px;
 }
 
 .card-body,
@@ -44,4 +41,18 @@ button:hover {
 .btn:hover {
   background-color: #f1c40f;
   border-color: white;
+}
+
+.about-me-txt {
+  text-indent: 40px;
+}
+
+footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+
+.btn{
+  margin: 3px;
 }
