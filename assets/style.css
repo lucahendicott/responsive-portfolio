@@ -10,6 +10,13 @@ body {
   background-color: lavender;
 }
 
+.img-thumbnail {
+  padding: 0px;
+  margin-right: 20px;
+  width: 50%;
+  height: 50%;
+}
+
 .portfolio-card {
   margin: 20px;
   float: left;
