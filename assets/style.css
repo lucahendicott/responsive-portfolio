@@ -11,13 +11,22 @@ body {
 }
 
 .portfolio-card {
-  margin-top: 20px;
-  margin-left: 20px;
+  margin: 20px;
   float: left;
 }
 
-.card-img-top {
+.duration-station-pic {
   width: 400px;
+  height: 350px;
+  padding: 5px;
+}
+
+.workday-gif {
+  padding: 5px;
+}
+
+.code-quiz-gif {
+  width: 600px;
   height: 350px;
   padding: 5px;
 }
