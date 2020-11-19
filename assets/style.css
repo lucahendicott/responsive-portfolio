@@ -63,12 +63,10 @@ button:hover {
   text-indent: 40px;
 }
 
-/* footer {
-  position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-} */
+.clearfix { 
+  display: inline-block; 
+  width: 100%;
+}
 
 .btn{
   margin: 3px;
