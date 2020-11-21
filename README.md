@@ -10,9 +10,7 @@ This Project is my responsive portfolio, utilizing Bootstrap along with some cus
 
 I learned how to link all of my HTML pages in the nav-link classes, so that all the nav buttons on the deployed site function properly, directing you to the correct corresponding pages. I also learned how to create a custom contact card and modify the 'submit' button with some custom CSS. That said, I also learned how to overwrite some of Bootstraps standard styling with my own style.css file. This included changing some margins, padding and some background colors, which I used Google's dev tools to help get an idea of where they were at and what I wanted them to look like. I was also able to attach a sticky footer to each page successfully.
 
-Here are some screenshots of what the responsive portfolio looks like when deployed on a browser
-![About me screenshot](https://user-images.githubusercontent.com/70814349/95630828-6346de80-0a37-11eb-9599-4c81fc5cabca.png)
-![Contact screenshot](https://user-images.githubusercontent.com/70814349/95630829-63df7500-0a37-11eb-97c6-cb1df894bafd.png)
+![responsive-portfolio](https://user-images.githubusercontent.com/70814349/99889688-76d78e80-2c0c-11eb-8902-e2ea12037f12.gif)
 
 ## Getting Started
 
