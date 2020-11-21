@@ -4,7 +4,7 @@
 
 ## Project Description
 
-This Project is my responsive portfolio, utilizing Bootstrap along with some custom CSS for styling. There are 3 different pages you can navigate to using the nav bar. The pages include an about me, a portflio page and a contact page. Any user can easily navigate through each page. The About Me page has detailed information and links to github and linkedin, including contact info. The Portfolio page has cards which display some projects with photos and links to the repos and deployed apps.
+This Project is my responsive portfolio, utilizing Bootstrap along with some custom CSS for styling. There are 3 different pages you can navigate to using the nav bar. The pages include an about me, a portflio page and a contact page. Any user can easily navigate through each page. The About Me page has detailed information and links to github and linkedin, including contact info and a downloadable pdf format resume. The Portfolio page has cards which display some projects with photos and links to the repos and deployed apps.
 
 ## Cool stuff I learned
 
